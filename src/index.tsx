@@ -10,3 +10,4 @@ root.render(
     <App name="First React Dashboard " />
   </StrictMode>
 );
+
